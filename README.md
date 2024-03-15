@@ -11,3 +11,7 @@ Key Features:
 3. **User-Friendly Interface**: Our app features a clean and intuitive interface designed for effortless navigation. Accessing weather data and forecasts is simple and straightforward.
 
 4. **Reliable Data Sources**: We utilize reliable weather data sources to ensure the accuracy and reliability of our forecasts. Trust in our app to deliver up-to-date information you can rely on.
+
+
+https://github.com/Deepti-Hada/Weather_App/assets/152957574/a22edcc5-1f7d-4e72-b348-338ee8c3aa47
+
